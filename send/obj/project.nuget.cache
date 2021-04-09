@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "B5qYQnnrxzjz/h7eFd2J0NMbOTXnx3J4zi1cEK4lwcH6R8tk73GQWKhKau14DRSE2mdXGv0aY/fRG6kAUdzMhQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\RyzBarn\\learn_rabbitmq\\Send\\Send.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\RyzBarn\\.nuget\\packages\\rabbitmq.client\\6.2.1\\rabbitmq.client.6.2.1.nupkg.sha512",
+    "C:\\Users\\RyzBarn\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\RyzBarn\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
